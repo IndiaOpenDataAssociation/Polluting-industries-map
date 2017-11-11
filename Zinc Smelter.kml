@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Zinc Smelter.kml</name>
+	<StyleMap id="icon-1855-0288D1-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1855-0288D1-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1855-0288D1-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1855-0288D1-nodesc-normal">
+		<IconStyle>
+			<color>ffd18802</color>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1855-0288D1-nodesc-highlight">
+		<IconStyle>
+			<color>ffd18802</color>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>Zinc Smelter</name>
+		<Placemark>
+			<name>Zinc Smelter, Debari</name>
+			<styleUrl>#icon-1855-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.8154724999999,24.6053439,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hindustan Zinc Limited</name>
+			<styleUrl>#icon-1855-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.2184815000001,17.6868159,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hindustan Zinc Limited</name>
+			<styleUrl>#icon-1855-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.6590728,24.9632557,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hindustan Zinc Limited</name>
+			<styleUrl>#icon-1855-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.685367,24.593265,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hindustan Zinc Limited</name>
+			<styleUrl>#icon-1855-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.7474179000001,24.3494302,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Binani Zinc Ltd</name>
+			<styleUrl>#icon-1855-0288D1-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.3021009,10.0819989,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

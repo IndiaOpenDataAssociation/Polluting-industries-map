@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Thermal power plant.kml</name>
+	<Style id="icon-1660-A52714-nodesc-highlight">
+		<IconStyle>
+			<color>ff1427a5</color>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="icon-1660-A52714-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1660-A52714-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1660-A52714-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1660-A52714-nodesc-normal">
+		<IconStyle>
+			<color>ff1427a5</color>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>Thermal power plant</name>
+		<Placemark>
+			<name>India One Solar Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.7858131,24.5167494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gandhinagar Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.67378650000001,23.2511711,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rosa Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.9354076,27.819417,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guru Hargobind Thermal Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.16913049999989,30.2589732,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barauni Thermal Power Station EF 09</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>86.02206580000011,25.4007529,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Satpura Thermal Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.1768847000001,22.1091349,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jindal India Thermal Power Limited</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>84.9808681,21.1247971,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vindhyachal Super Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.6725788,24.0960377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Obra Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.9807019,24.4454697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mettur Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.82243320000001,11.7715422,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Suratgarh Super Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.0226720000001,29.1830597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Thermal Power Plant Rajpura</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.5786318,30.5600752,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guru Nanak Dev Thermal Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.9279595,30.2349699,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Guru Gobind Singh Super Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.5848605,31.0427547,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Amarkantak Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.6379881,23.1638776,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sanjay Gandhi Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.06580630000001,23.3072249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Anpara D Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.80615589999999,24.19266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IB Thermal Power Plant Banharpali</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.8630628999999,21.8025593,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Athena Chhattisgarh Power Ltd</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.12896499999999,21.9061251,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hasdeo Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.68939159999999,22.4137691,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Talcher Super Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>85.0741373999999,21.0972861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rihand Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.7899218,24.0267102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NTPC Super Thermal Sipat</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.3031301,22.1387716,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NTPC Limited Simhadri</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.0854314000001,17.598912,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NTPC Kahalgaon Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>87.2668072,25.2408142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kanti Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>85.3011735,26.1979771,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bhilai Expansion Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.3771057,21.1988165,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dr. S P M Thermal Power Plant CSEB</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.7225751,22.3713646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Badarpur Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.3001537,28.5076585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Indraprastha Power Generation Co. Ltd.</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.265298,28.5802129,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rajghat Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.2550205,28.6370917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wanakbori Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.3586043,22.8763142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Akrimota Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>68.6454454,23.7697801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gujarat State Electricity Corporation Limited (GSECL)</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>69.8284699000001,22.4216818,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Utran Gas Based Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.8699871,21.2307167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tenughat Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>85.75897430000001,23.732122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chandrapura Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>86.1255609,23.7372493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Patratu Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>85.2935849,23.6407926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KPCL-Bellary Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.7192222,15.1996795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KPCL Raichur Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.3400834,16.3603632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Udupi Power Corporation Ltd</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.8036993000001,13.1605784,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sanjay Gandhi Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.06580630000001,23.3072249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Singaji Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.5343720999999,22.1022208,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RattanIndia Power Limited</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.9024611,21.0727631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chandrapur Super Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.2930312,20.0022771,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paras Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.7964506000001,20.7178651,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bhusawal Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.8010962999999,21.0455204,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Khaperkheda Super Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.11563870000001,21.2802571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Koradi Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.0986278,21.2485091,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nashik Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.78980230000001,19.9974533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parli Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.524131,18.8680163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Adani 3x660MW Power Plant Phase 1 Tiroda</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.9682293,21.4135252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hindalco Hirakud FRP</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.901802,21.5237364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kota Super Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.8156257000001,25.1772416,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Giral Lignite Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>71.2532714,26.0425908,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KaliSindh Super Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.09717019999989,24.5369953,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chhabra Thermal Power Project</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.0363873,24.6212431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Barsingsar Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.1990691,27.847212,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>VS Lignite Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.8589327,27.8593825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Raj WestPower Limited</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>71.3298649,25.8955127,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ennore Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.3108648,13.2026648,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>North Chennai Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.3205303,13.2462629,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NTECL</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.3059896,13.2359915,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Thermal Power Station-I</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.4749314000001,11.5931189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TTPS</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.17639370000011,8.7624747,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Anpara D Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.80615589999999,24.19266,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GAIL, Pata Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.4893714,26.643854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Harduaganj Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.19064179999999,28.0332665,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CISF Camps NTPC, Dadri</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.61074290000001,28.5939049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panki Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.2412975,26.4760472,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parichha Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.7603726,25.5143318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vindhyachal Super Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.6725788,24.0960377,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shaktinagar N.T.P.C. THermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.7063862,24.105167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NTPC Tanda</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.6003084,26.5887529,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bakreswar Ther­mal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>87.4529661,23.8286143,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NTPC Super Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>87.9040572,24.7828022,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sagardighi Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.1040952999999,24.369683,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sagardighi Thermal Power Project</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.2801786,24.175904,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Santaldih Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>86.466651,23.6010372,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mejia Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>87.1318401999999,23.4637929,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bandel Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.4029221000001,22.9953608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Calcutta Electric Supply Corporation Thermal Power Station</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.138289,22.4668886,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kolaghat Thermal Power Plant</name>
+			<styleUrl>#icon-1660-A52714-nodesc</styleUrl>
+			<Point>
+				<coordinates>87.8721602000001,22.4181905,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

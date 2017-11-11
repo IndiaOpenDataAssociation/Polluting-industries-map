@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Pulp and paper.kml</name>
+	<StyleMap id="icon-1526-AFB42B-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1526-AFB42B-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1526-AFB42B-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1526-AFB42B-nodesc-highlight">
+		<IconStyle>
+			<color>ff2bb4af</color>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1526-AFB42B-nodesc-normal">
+		<IconStyle>
+			<color>ff2bb4af</color>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>Pulp and paper</name>
+		<Placemark>
+			<name>Millenium Papers Pvt Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>70.887196,22.787159,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Camerich Papers Pvt Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>70.98299729999999,22.7082905,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sun Paper Mills</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.5569265,8.706695699999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Malu Paper Mills Ltd.</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.1119573,21.1496164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Malu Paper Mills Savner</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.87631330000001,21.4044286,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hindustan Paper Corpn Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.7639498999999,30.7195549,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hindustan Paper Corporation Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.8067579999999,26.918721,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HINDUSTAN PAPER CORPORATION LIMITED</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.3544933000001,22.5509537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hindustan Paper Corporation Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>92.21305849999999,26.120687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hindustan Paper Corpn Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.5809105000001,12.9940996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hindustan Paper Corporation Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.4896,17.441384,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cachar Paper Mill</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>92.59270909999999,24.8527961,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GMJ Paper &amp; Boards Private Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.3873487999999,10.5594329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Seshasayee Paper And Boards Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.7607369,11.3509545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aaditiya Aswin Paper Mills Pvt Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.1570495,11.4965196,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MSP Paper Mill Private Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.9768986,11.4511361,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kovai Maruthi Papers and Boards (P) Ltd. KMP</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.9693698999999,11.1323185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tamilnadu Newsprint and Papers Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.99384980000001,11.0595306,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sri Gajendira Paper and Boards Private Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.477811,10.479097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SIVADHARSHINI PAPERS PVT. LTD.,</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.3513353000001,10.4595007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GMJ Paper &amp; Boards Private Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.3873487999999,10.5594329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sri Venkatesa Group</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.94391999999991,11.04477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sri Venkatesa Paper &amp; Boards</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.2433217,13.0056171,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Amaravathi Sri Venkatesa Paper Mills Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.570773,12.964114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Venkatesh Paper Mills</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.7288294,28.9930515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Abc Paper Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.0766472,31.3058235,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Venkata Naga Lakshmi Paper Mills Pvt Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.41773000000001,16.836724,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>International Paper APPM Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.7718663000001,17.0275341,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Andhra Pradesh Paper Mills Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.82412720000001,18.9236295,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>A P Paper Mills Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.7888318,30.6907205,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ballarpur Industries Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.017838,28.46385,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Century Pulp And Paper</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.52,29.07999999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Delta Paper Mills Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.4078145,17.4221397,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hemkunt Paper Mills</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.8572758,30.900965,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Indo Afrique Paper Mill Pvt Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.9639675,18.1726234,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ITC Paperboards and Specialty Papers Division</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.49011,17.4429345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ITC PSPD</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.8622718,17.6985493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JK Paper Ltd.</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.41330169999991,19.2497586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JK Paper Ltd.</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.5645055,21.166359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>J K Paper Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.26070679999999,13.0853311,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jk Paper Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.8367776,18.9346619,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>J K Paper Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.3469415,22.5694726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JK Paper Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.2441074999999,28.6309308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Khanna Paper Mills Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.8842520000001,31.671331,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Khanna Paper Mills Ltd.</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.5810039,31.336029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Khanna Paper Mills Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.228931,28.649921,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Khanna Paper Mills Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.0135310000001,28.43032,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>K R Pulp &amp; Papers Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.27717560000001,28.6288177,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Laxmi Board &amp; Paper Mill Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.100365,19.25899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Murli Agro Products Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.1358027,21.1488571,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The South India Paper Mills</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.6788091,12.1665405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MWV</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.88486899999999,18.540715,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nepamills Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.40029129999991,21.449161,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Orient Paper Mills</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.5911722000001,23.1945398,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Orient Paper Mills</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.9603694,21.4813468,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Punalur Paper Mills</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.9079447,9.036494299999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sai Rayalaseema Paper Mills Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.4426308,17.439511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sangal Papers</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.883916,29.094022,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Satia Paper Mill</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.51922930000001,30.4207334,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shah Pulp And Paper Mills Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.90634,20.371237,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree krishna paper mills , paper plant</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.2264929,27.8206737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Krishna Paper Mills &amp; Ind Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.91862519999999,28.7013304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sirpur Paper Mills Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.7432,26.96182,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sirpur Kagaznagar Paper Mill</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.4886679,19.3513359,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sirpur Paper Mills Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.2309934,13.0665262,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sri Nandha Paper</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.96904670000001,11.3758866,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Srinivas Papers</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.56903200000001,23.0366892,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>TAMIL NADU NEWSPRINT AND PAPERS LTD UNIT 2</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.42136170000001,10.689372,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trident Sugars Ltd</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.62,17.68,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>West Coast Paper Mills Ltd.</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.6268676,15.2512181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>White Field Paper Mills</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.4595644,17.4191709,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Yash Papers</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.2257298,26.7367649,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hindustan Newsprint Limited</name>
+			<styleUrl>#icon-1526-AFB42B-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.4688024,9.833240200000001,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

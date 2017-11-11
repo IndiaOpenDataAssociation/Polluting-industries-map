@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Petrochemical.kml</name>
+	<Style id="icon-1544-880E4F-nodesc-normal">
+		<IconStyle>
+			<color>ff4f0e88</color>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="icon-1544-880E4F-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1544-880E4F-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1544-880E4F-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1544-880E4F-nodesc-highlight">
+		<IconStyle>
+			<color>ff4f0e88</color>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>Petrochemical</name>
+		<Placemark>
+			<name>Barauni Refinery</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>86.0599852,25.4313381,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bayer Polymers</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.16460910000001,22.2889631,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cetex Petrochemicals</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.2707184999999,13.0826802,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chemplast Sanmar Limited</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.73928649999991,11.6460342,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nagarjuna Oil Refinery</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.7483995,11.600737,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cochin Refineries School</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.3804133,9.9797429,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Digboi Refinery</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>95.6172941,27.3831252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Finolex Industries</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.59041910000001,23.0282011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Finolex Industries Limited</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.603883,12.9735016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Finolex Industries Ltd</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.2971749999999,16.9128139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Assam Petrochemicals Limited</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>91.77486559999998,26.1597687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Haldia Petrochemicals Limited</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.3592477,22.5424336,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP PETROL PUMP - SHEW PRASAD &amp; SONS</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>91.7639799999999,26.16864,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HP PETROL PUMP - HP AGOMONI</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>91.76684599999999,26.184902,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hindustan Petroleum Limited</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.1144942999999,22.0666394,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mysore Petrochemicals Limited</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.3637607000001,22.5449563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I G Petrochemicals Limited</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.8372116,15.4994823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I G Petrochemicals Limited</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.6001586,12.9813704,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I G PETROCHEMICALS LIMITED</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.83362050000009,15.4971228,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>I B P Company Limited</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.7578185,20.0120299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bharat Petroleum Corporation Limited</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.2184815000001,17.6868159,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chennai Petroleum Corporation Limited Corporate Office</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.2472547,13.0423485,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mangalore Refinery And Petrochemicals Limited</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.84778899999991,12.9857,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Indian Petrochemicals Corporation Limited</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.1747877,22.3139759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mathura Refinery - IOCL</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.685957,27.3770646,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Emerald Petro Chemicals Pvt Ltd</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.8545019000001,18.9823054,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Deepak Fertilizers and Petrochemicals</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.1382797,19.0669051,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dhara Petrochemicals Pvt. Ltd</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.83825469999999,19.1919689,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Polychroic Petrochemicals Pvt. Ltd.</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.8505596,19.0988386,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Laffans Petrochemicals Ltd</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.88199880000001,19.0899768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Deepak Fertilisers &amp; Petrochemicals Corp Ltd</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.0012320999999,19.0774446,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kothari Petrochemicals Ltd</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.8465083,19.0339158,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mangalore Refinery And Petrochemicals</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.82066690000001,18.9245498,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Haldia Petrochemicals Limited</name>
+			<styleUrl>#icon-1544-880E4F-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.8406454,19.0547881,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

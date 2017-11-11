@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Cement Layer.kml</name>
+	<Style id="icon-1706-757575-nodesc-normal">
+		<IconStyle>
+			<color>ff757575</color>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="icon-1706-757575-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1706-757575-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1706-757575-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1706-757575-nodesc-highlight">
+		<IconStyle>
+			<color>ff757575</color>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Folder>
+		<name>Cement Layer</name>
+		<Placemark>
+			<name>Sri Chamundaswari Cement Product</name>
+			<styleUrl>#icon-1706-757575-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.61606069999991,13.8995217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>India Cements Ltd</name>
+			<styleUrl>#icon-1706-757575-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.4586906,17.4384514,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Binani Cement Limited</name>
+			<styleUrl>#icon-1706-757575-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.7296288,27.6901783,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Penna Cement Corporate Office</name>
+			<styleUrl>#icon-1706-757575-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.43938419999991,17.4283101,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The India Cements Limited</name>
+			<styleUrl>#icon-1706-757575-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.8324398,11.4550454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The India Cements Limited</name>
+			<styleUrl>#icon-1706-757575-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.1067384,15.3551015,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The India Cements Ltd.</name>
+			<styleUrl>#icon-1706-757575-nodesc</styleUrl>
+			<Point>
+				<coordinates>86.2244178,22.8278635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The India Cements Limited</name>
+			<styleUrl>#icon-1706-757575-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.2661396,13.0647131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Penna Cement Industries Ltd</name>
+			<styleUrl>#icon-1706-757575-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.6948745,16.7171907,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Heidelberg Cement India Ltd</name>
+			<styleUrl>#icon-1706-757575-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.4363029,23.2265679,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Heidelberg Cement India LTD.</name>
+			<styleUrl>#icon-1706-757575-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.9984019999999,19.063148,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

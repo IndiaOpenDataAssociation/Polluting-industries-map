@@ -1,0 +1,3202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Sugar mill.kml</name>
+	<StyleMap id="icon-1565-795548">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1565-795548-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1565-795548-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="poly-795548-701-189-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#poly-795548-701-189-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#poly-795548-701-189-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1565-795548-highlight">
+		<IconStyle>
+			<color>ff485579</color>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+	</Style>
+	<Style id="icon-1565-795548-nodesc-highlight">
+		<IconStyle>
+			<color>ff485579</color>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="poly-795548-701-189-nodesc-normal">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff485579</color>
+			<width>0.701</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bd485579</color>
+		</PolyStyle>
+	</Style>
+	<Style id="poly-795548-701-189-nodesc-highlight">
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+		<LineStyle>
+			<color>ff485579</color>
+			<width>1.0515</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>bd485579</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="icon-1565-795548-nodesc">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#icon-1565-795548-nodesc-normal</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#icon-1565-795548-nodesc-highlight</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="icon-1565-795548-nodesc-normal">
+		<IconStyle>
+			<color>ff485579</color>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<h3>$[name]</h3>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="icon-1565-795548-normal">
+		<IconStyle>
+			<color>ff485579</color>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+	</Style>
+	<Folder>
+		<name>Sugar mill</name>
+		<Placemark>
+			<name>Nagaland Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>93.7695411,25.8455992,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shiv Shakti Sugar Mill India Private Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.486671,17.385044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>South India Sugar Mills</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.2450245,13.0348506,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>South Indian Sugar Mills Association (Karnatka)</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.5998036999999,12.981788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Indian Sugar Mills Association</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.2244125,28.5622435,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>New India Sugar Mill Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.69196310000009,26.7404102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Balod Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.3258567,20.6794848,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bajaj Hindustan Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.4687630999999,29.0496722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dhampur Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.5135488999999,29.2902792,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HARI NAGAR SUGAR MILLS LTD.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>84.3288798,27.1546726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>K M Sugar Mills</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.1361979000001,26.7023137,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dhampur Sugar Mills Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.5370492,28.7016798,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Riga Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>85.4213834,26.6337836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dhampur Sugar Mills Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.2687026,28.5519173,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saraswati Sugar Mills</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.2775103,30.1205367,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saraswati Sugar Mill Colony</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.27265,30.1206583,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palitana Sugar Mills Private Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.1591238999999,21.769123,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mandvi Sugar</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.11055090000001,21.2989484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gandevi Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.0087272000001,20.8152304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mahuva Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.1967552,20.9387979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gujarat State Sugar Federation</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.6480951999999,23.2293999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ganesh Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.1070506999999,21.5619599,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Renuka Sugars Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>70.1098572999999,23.0037899,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SAYAN SUGAR FACTORY</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.7967685,21.2550383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rajasthan State Ganganagar Sugar Mills Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.8819086999999,29.9301492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>K M Sugar Mills</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.1361979000001,26.7023137,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Kisan Sahkari Chini Mills Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.40264860000001,28.5845968,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hargaon Oudh Sugar Mills</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.72954970000001,27.7785825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UP Sugar Mills Association</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.93346029999999,26.8372958,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chini Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.98103999999999,25.5644742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>HARI NAGAR SUGAR MILLS LTD.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>84.3288798,27.1546726,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vishnu Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>84.44051450000011,26.4516448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Mill, Motihari</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>84.9123645,26.6355479,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bharat Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>84.6637961,26.3318742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Riga Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>85.4213834,26.6337836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugarcane Industries Department</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>85.1161949,25.60566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mannam Sugar Mills</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.6642714,9.2115344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>South India Sugar Mills</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.2450245,13.0348506,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Ambika Sugars</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.4961476,11.0625269,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tamilnadu Sugar Corporation Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.23910189999989,13.0254213,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>E.I.D Parry Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.6670902,11.771484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bannari Amman Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.96026639999999,12.1922987,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rajshree Sugars &amp; Chemicals Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.2887125,12.2475566,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dharani Sugar &amp; Chemicals Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.2515622999999,13.0335049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dharani Sugars And Chemicals Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.9146797999999,11.8895267,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bannari Amman Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.2649811,13.0447945,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Madras Sugars Ltd. (Subsidiary of Bannari Amman Sugars Ltd.)</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.1955772,11.915176,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>South Indian Sugar Mills Association (Karnatka)</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.5998036999999,12.981788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Godavari Sugar Mills Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.5945627,12.9715987,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sri Chamundeswari Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.6017796,12.9652141,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Mysore Sugar Co. Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.584744,12.963551,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Godavari Biorefineries Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.581745,12.95703,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Renuka Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.06409290000001,16.7268811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KPR Sugar Mills Private Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.6461955,12.9806075,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Mysore Paper Mills Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.6190723,12.9544874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Renuka Industries</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.5534769999999,12.999796,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jamkhandi Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.4016670999999,16.6094781,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KPR sugar Mill Pvt Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.20579840000001,17.1280089,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Delta Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.9350441,16.6210248,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kakatiya Cement Sugar Industries Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.10377219999999,16.9021166,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>N. C. S Sugars Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.3728513999999,18.6059589,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Thandava Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.547273,17.3728183,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Andhra Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.6858526,16.7530448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>K.C.P. Sugar and Industries Corporation Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.8586786,16.3601641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Chodavaram Co-op. Sugars Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.9614919000001,17.8052149,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shiv Shakti Sugar Mill India Private Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.486671,17.385044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Trident Sugars Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.62,17.68,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gayatri Sugar Complex Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.4817273,17.382042,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Madhucon Sugar &amp; Power Industries Ltd.,</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.00768189999999,17.1321049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gayatri Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.4583147999999,17.4239455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pannageshwar Sugar Mills Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.6643729,18.5906836,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Venkateshkrupa Sugar Mill Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.1361895,18.7365786,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Siddhanath Sugar Mills</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.7958444999999,17.6619824,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Harinagar Sugar Mills Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.82974780000001,18.9524457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Indreshwar Sugar Mills Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.832413,18.518391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oudh Sugar Mills Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.825695,18.9293889,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Harinagar Sugar Mills Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.82974780000001,18.9524457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maharashtra Sugar Sangh</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.2751049999999,16.693535,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dalmia sugar factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.1381253,16.7651926,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>JK SUGARS</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.2411979999999,16.704851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bhimashankar Sugar Mills Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.6837168,18.6871432,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nayagarh Sugar Complex Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>85.85378,20.305678,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Bargarh Co-Op Sugar Mills Ltd.,</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.6461481,21.3293178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shakti Sugar Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>85.6042629999999,20.65616,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sakthi Sugars Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>85.5695023000001,20.6731066,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Harinagar Sugar Mills Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.35067979999999,22.5378609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gobind Sugar Mills Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.35899999999999,22.533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plassey Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.2485965999999,23.7903268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vishnu Sugar Mills Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.3481449999999,22.5379412,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gobind Sugar Mills Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.35113269999999,22.5721137,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Upper Ganges Sugar Mills Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.34997010000011,22.570344,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Khaitan India Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.3508679,22.5609364,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Balarampur Chini Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.3521737999999,22.5410882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Balram Pur Chini Mills Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.3507267,22.5377811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plassey Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.2485965999999,23.7903268,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Balarampur Chini Mills Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.3666094,22.5583576,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gobind Sugar Mills Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.35899999999999,22.533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sanjivani Sahakari Sakhar Karkhana Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.0951436,15.4017722,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ajara Shetkari Sahakari Sakhar Karkhana Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.1761073,15.999831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shri Halasidhanath Sahakari Sakhar Karkhana Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.37949399999999,16.398041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Bhogawati Sahakari Sakhar Karkhana Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.23697659999991,16.7018546,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kumbhi Kasari Sahakari Sakhar Karkhana</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.12095789999999,16.6893102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Loknete Balasaheb Desai Sahakari Sakhar Karkhana</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.95458720000001,17.3200499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Datta Sahakari Sakhar Karkhana</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.13873169999999,16.7658579,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Coporate Office, Sonhira Sahakari Sakhar Karkhana Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.3651193000001,17.2199827,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Soanhira Sahakari Sakhar Karkhana Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.3822059,17.307733,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rajarambapu Cooperative Sugar Refinery</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.2903189,17.0697986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ajinkyatara Sahakari Sakhar Karkhana Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.000938,17.691401,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sadguru Sri Sri Sakhar Karkhana Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.91678949999999,17.6124858,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sadguru sri sri sakhar karkhana ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.3319558000001,17.6583432,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shri Chhatrapati Sahakari Sakhar Karkhana Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.6838971,18.1172813,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vitthalrao Shinde Sahakari Sakhar Karkhana Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.25634770000001,18.0466391,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dwarkadhish Sakhar Karkhana Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.78980230000001,19.9974533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shreenath Mhaskoba Sakhar Karkhana Ltd C O</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.9243547999999,18.503184,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Makai Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.8989541,18.3302104,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Yashwantrao Mohite Krishna Sahakari Sakhar Karkhana Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.2459411,17.16757,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vikas Sahakari Sakhar Karkhana Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.58097100000001,18.39768,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vikas Sahakari Sakhar Karkhana Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.56038289999989,18.4087934,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hira Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.5001364,16.2478667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Athani Farmers Sugar Factory Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.8390163,16.7341223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Ugar Sugar Works Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.8207381,16.6502569,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nirani Sugars Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.2705102,16.3501565,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ICPL Sugar Factory, Uttur</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.2239764,16.2771103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GM SUGARS Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.31227,14.7756781,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Davangere Sugar Company Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.8818438000001,14.3301448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Badami Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.64056860000009,15.9068484,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bannari Amman Sugars Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.6148087,12.9704869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bannari Amman Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.982231,10.997142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bannari Amman Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.64610999999999,12.303534,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bannari Amman Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.7581711,12.1046142,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bannari Amman Sugars Limited,Kunthur</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.0287943000001,12.1306558,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Badagandi</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.6615384,16.3509826,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Baroor</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.5547770000001,17.750853,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Core Green Sugars Yadgir</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.13330000000001,16.7667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NSL Sugars Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.9787563,12.6998779,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Malavalli</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.05357979999999,12.3853432,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Factory Almel</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.2174935,17.0908585,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>GEM Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.5901513,12.9899447,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The India Sugars And Refineries Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.6181263,12.9713754,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Indian Cane Power Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.2858209,16.3333105,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>INDIAN SUGAR</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.6789905000001,17.3487264,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Indian Sugar</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.6779839999999,17.325981,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.04544919999999,17.260667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jamkhandi Sugars Ltd,nad K.d.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.1303545000001,17.1260989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mysore Paper Mills Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.5940937,12.9855077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Mysore Paper Mills Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.6190723,12.9544874,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mysore Paper Mills Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.8214262,18.924473,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parrys Sugar Industries Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.2172571,15.9412289,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dharwad</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.0078080000001,15.4589236,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sadashiva Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.9187889,16.2922133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SATISH SUGARS AWARDS GROUP</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.81477,16.162065,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shamanur Sugars Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.84407299999999,14.630302,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bavan Soundatti</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.7073692,16.5493215,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SPR Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.4525189,12.7148443,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>S P R Sugars Pvt Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.58548399999999,12.991407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Ugar Sugar Works Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.5691425,16.8636102,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Ugar Sugar Works Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.8362498,19.0606917,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Ugar Sugar Works Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.4977664,15.8348544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>New Phaltan Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.33858530000001,18.0533151,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shiraguppi Sugar Works Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.72242200000009,16.710706,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Venkateshwara Power Project Ltd Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.2736848,16.7512537,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Viswanath Sugars Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.7108496999999,16.2776613,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Laila Sugars Private Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.5443018,15.643452,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parrys Sugar Industries Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.6385779,12.9233948,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RameeGuestline Hotels &amp; Resorts</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.74342,12.78542,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vijayanagar Sugar Pvt. Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.4054052,17.415153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Mill Colony</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.70992010000001,8.742775,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.7092170999999,8.7434113,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.5864471,12.9902521,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.7487845000001,11.2072609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Thiru Arooran Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.2475535,13.0609174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dharmapuri District Co-op Sugar Mills Polytechnic College</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.0716425000001,12.3241633,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ponni Sugars Erode Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.725042,11.319301,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>sakthi sugars office</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.6806619,11.6452171,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sakthi Sugars Fertilizer Depot 1</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.5721025,11.4776695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sakthi Sugars</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.571972,11.474642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sakthi Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.36288949999989,9.832371800000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sarita Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.4382469,17.4164707,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sv sugar mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.8612177,12.7785622,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Padmaadevi Sugars Ltd., Palayaseevaram, Tamil Nadu</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.8625588,12.7786773,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>E.I.D-Parry India Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.2903202,13.0890977,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EID Parry Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.0225204999999,11.0750462,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The National Co.op. Sugar Mills Ltd., Mettupatti, Tamil Nadu</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.099575,10.0454724,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NPKRR Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.6515441,11.2041245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Salem Co-Op. Sugar Mills Ltd., Mohanur, Tamil Nadu</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.12862869999999,11.0753621,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>dhanalakshmi srinivAsan sugars</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.7292786,11.403163,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kothari Sugars &amp; Chemicals Ltd Sathamangalam Unit</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.0829174,11.0069474,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Ambika Sugar</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.21908620000001,11.393122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EID Parry India Limited, Pudukkottai</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.813811,10.3783265,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bannari Amman Sugars</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.269721,11.4857864,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Ambika Sugars Pvt Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.2474816,13.0609906,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Polygon 185</name>
+			<styleUrl>#poly-795548-701-189-nodesc</styleUrl>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<tessellate>1</tessellate>
+						<coordinates>
+							80.2476027,13.0611997,0 80.2473365,13.0610664,0 80.2474666,13.0608319,0 80.24760670000001,13.0607927,0 80.2477288,13.0608881,0 80.2478407,13.0610246,0 80.24772609999999,13.0611206,0 80.2476027,13.0611997,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+			<name>Arignar Anna Sugar Mills Ltd., Kurungulam, Tamil Nadu</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.0771651,10.671299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chittoor Co-op Sugars Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.1110060999999,13.2344449,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KBD Sugars &amp; Distilleries Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.5758398,13.4230564,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Prudential Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.7111136,13.3984986,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Thandava Co-Operative Sugars Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.54766599999989,17.3723345,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Anakapalle V V Ramana Cooperative Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.9941683,17.7161383,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Andhra Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.6858526,16.7530448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Andhra Sugars Ltd. (Unit II), Taduvai, Andhra Pradesh</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.1974835,17.1386169,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Andhra Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.4906821,17.4359314,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Jeypore Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.6685686000001,17.0006291,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Kirlampudi Sugar Mills Ltd.,, Pithapuram, Andhra Pradesh</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.251935,17.1105642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DVS SUGARS , Amudalavalasa</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.9102347,18.4081337,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chini Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.98103999999999,25.5644742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chini Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>85.31844819999991,25.9268837,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bagaha Sugar Mills</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>84.07685979999999,27.1304492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>84.4609101999999,27.11347960000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Majhowlia Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>84.6260010999999,26.7977975,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sasamusa Suger Works Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>84.35649480000011,26.5235794,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hasanpur Sugar Mills</name>
+			<description><![CDATA[Sugar Mill.<br>Address	Hasanpur Road, Hasanpur, Samastipur, Bihar - 845205, India<br>Contact Person	<br>Phone	06275-258234<br>Fax	06275-258294]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>86.191349,25.7152448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lauriya Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>84.3955966999999,26.9939578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugauli Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>84.736127,26.7560255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Hanuman Sugar &amp; Industries Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.4440225000001,22.67641,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Riga Sugar Co. Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>88.3490750000001,22.57682,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rampur Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.02671770000011,28.7847728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chalthan Vibhag Khand Udyog Sahakari Mandli Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.9571294,21.1603454,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shri Narmada Khand Udyog Sahakari Mandli Ltd., Timbi, Gujarat</name>
+			<description><![CDATA[1	Ghanshyambhai G. Patel	Chairman	(02640) 249647, 249747, 241347	N.A.<br>2	Ajaysinh Parmar	Vice Chairman	(02645) 224281	N.A.<br>3	Narendrabhai N. Patel	M.D	N.A.	9428815719]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>71.1935091,20.8972654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maroli Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.90951270000011,21.0238358,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pandvai Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.9088019000001,21.4853645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gandevi Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.0087272000001,20.8152304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Coper Sugar</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.30068469999991,20.993862,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vyara Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.3642382,21.1151788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kamrej Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.96303469999999,21.3340581,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Valsad Sahakari Khand Udyog Mandli Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.9544192000001,20.5707793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gandhara Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.2138046,22.0573032,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mahuva Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.1967552,20.9387979,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Khedut Sahakari Mandli Baben Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.10185249999989,21.1337916,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Factory Staff Quarters</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>70.6938189,20.8073362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SITARAM SUGARS AND ALLIED IND. LTD.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.7088009,22.2316308,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Kedareshwar Khandsari Udyog, Nimbhora, Gujarat</name>
+			<description><![CDATA[Plant Name : Nimbhora<br>Address : Vill. & PO. Nimbhora, Teh. Nizar<br>Contact Details : (02628) 290272]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>74.27094700000001,21.5311744,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Valsad Sahakari Khand Udyog Mandli Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>72.9544192000001,20.5707793,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shri Ukai Asargrast Vibhag Sahakari Khand Udyog Mandli Ltd.,, Tapi, Gujarat</name>
+			<description><![CDATA[1	Sahadevbhai B. Chaudhary	Chairman		9825477244,9979667272<br>2	Dinakarrao Y. Marathe	Secretary		<br>3	Vilas J. Damit	Ch.Agri.Offr.		9727265142, 9427151904.]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>73.6048794,21.2790174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gandevi Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>73.0087272000001,20.8152304,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Palwal Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.34608179999999,28.0761106,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Haryana State Federation of Co-operative Sugar Mills Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.8608055,30.6967302,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Naraingarh Sugar Mills Ltd., PO. Shahzadpur, Haryana</name>
+			<description>1	Smt. Renu Anand	Director	(01734) 277388</description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>77.0534276999999,30.4571455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Mill Karnal</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.0270857,29.6634925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Panipat Cooperative Sugar Mills Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.9578248,29.3737742,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kaithal Cooperative Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.4526935,29.7877707,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Meham Co-Op. Sugar Mills Ltd., Meham, Haryana</name>
+			<description><![CDATA[1	Pradeep Ahlawat (HCS)	M.D.	(01257) 215144	N.A.<br>2	W.S. Dhillon	Ch.Engr.	N.A.	9050379496<br>3	T.C. Katiyar	Ch.Chemist	N.A.	9992333922<br>4	K.S. Dhillon	Cane Mgr.	N.A.	9992333917<br>5	Surender Pal	Cane Deve.Offr.	N.A.	9992333972<br>6	Surender Singh	Purchase Offr.	N.A.	9466123606]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>76.2962723,28.9697008,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Jind Co-Op. Sugar Mills Ltd., Jind, Haryana</name>
+			<description><![CDATA[1	Vinay Yadav (IAS)	Chairman	N.A.	N.A.<br>2	Yogesh Mehta (HCS)	M.D.	N.A.	9255997181<br>3	S.K. Rastogi	Ch.Engr.	N.A.	9466155604<br>4	Amberish Bhargava	Ch. Chemist	N.A.	9466155604<br>5	Rohtash Lather	Ch.Agri.Offr.	N.A.	9466155608<br>6	Surendra Sharma	Ch.Acct.	N.A.	7027002425]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>76.29523159999999,29.3526942,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Sonipat Co-operative Sugar Mills Ltd., Sonipat, Haryana</name>
+			<description><![CDATA[K.M. Pandyrang	Chairman	(0130) 2220500	N.A.<br>2	Dr.Subhita Dhaka	M.D.	N.A.	9728310001<br>3	B.S. Hooda	Ch.Chemist	N.A.	9728310004<br>4	D.K. Mehta	Ch.Acct.Offr.	N.A.	9728310019<br>5	M.L. Sharma	Cane Mgr.	N.A.	9728310005<br>6	D.S. Pahal	Dy.Ch.Engr.	N.A.	9728310002]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>77.0129156,29.0143798,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hafed Sugar Mills, Vill. Phaphran, Haryana</name>
+			<description><![CDATA[Address : (A unit of The Haryana State Co-op. Supply & Marketing Federation Ltd.), Assandh, Vill. Phaphran, Teh. Assandh<br>City : Vill. Phaphran<br>Pin Code : 132 046<br>State : Haryana<br>District : Karnal<br>Register Office Address : Hafed, Sector- 5, Panchkula, Ph. (0172) 2590520-26, Fax- (0172) 2590711<br>Nearest City/Town : Assandh 10 Km<br>Nearest District : Karnal 35 Km]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>76.68313259999999,29.5264919,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chaudhary Devi Lal Co.Op Sugar Mills Ltd., Ahulana, Haryana</name>
+			<description><![CDATA[Plant Name : Gohana<br>Address : PO. Ahulana, Teh. Gohana<br>Contact Details : (01263) 269244, 269172]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>76.64071079999999,29.1252477,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Piccadily Agro Industries Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.9793639,29.903044,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Shahabad Co - Operative Sugar Mills Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.89317030000009,30.1528011,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gem Sugars Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.4577776,16.1933239,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Godavari Biorefineries Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.03761590000001,16.3927436,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>E I D Parry ( India) Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.1239547,15.3647083,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Athani Sugars Limited Unit 1</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.920147,16.7696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Doodhaganga Krishna Sahakari Sakkare Karakhane Niyamit Chikodi (DKSSK Chikodi)</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.6143019,16.5070966,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>OM SUGARS ETP</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.54320200000009,16.384653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Ghataprabha Sahakari Sakkare Karkhane Niyamit, Teh. Gokak, Karnataka</name>
+			<description><![CDATA[1	Ashok R. Patil	Chairman	N.A.	9448347047<br>2	R.K. Maharaddi	Vice Chairman	N.A.	9449734730<br>3	S.M. Ranjanagi	M.D.	N.A.	9448636440<br>4	M.A. Lokannavar	Ch.Engr.	N.A.	9448589851<br>5	S.M. Koujalagi	Ch. Chemist	N.A.	9448589851<br>6	J.R. Babaleshwar	Cane Deve.Offr.	N.A.	9448873655, 8105451277<br>7	S.S. Yardi	Offi.Supdt.	N.A.	9448629227]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>74.764967,16.2410049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Someshwar Sahakari Sakkare Karkhane Niyamit</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.91811559999999,15.7038186,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Krishna Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.050163,16.6657805,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Malaprabha Sugars</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.7147215,15.693681,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parrys Sugar Industries Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.76223469999999,15.3154225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Renuka Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.5035104999999,15.8574603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shree Renuka Sugars Ltd, Teh. Saundatti, Karnataka</name>
+			<description><![CDATA[1	Mrs. Vidya Murkumbi	Chairman	(022) 24975703	N.A.<br>2	Narendra Murkumbi	M.D.	N.A.	N.A.<br>3	A.S. Khot	Gen.Mgr. / Unit Head	N.A.	9449834040<br>4	N.S. Mugalkhod	Gen.Mgr. (Cane)	N.A.	7760994477<br>5	Rayappa Budhihal	Mgr. (Engg.)	N.A.	8861386145<br>6	S.B. Pratap	Sr.Mgr. (Process)	N.A.	8861386139<br>7	A.M. Kamble	Asst.Gen.Mgr. (Power Plant)	N.A.	9449043032]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>75.1201344,15.7577276,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SHIVSHAKTI SUGAR FACTRY</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.7750903,16.4919941,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shri Shivsagar Sugar Agro Products Ltd, Teh. Ramdurg, Karnataka</name>
+			<description><![CDATA[1	Rajendra B. Patil	C.M.D.	(08335) 273400	N.A.<br>2	S.S. Patil	Factory Mgr	N.A.	9686500312<br>3	K.K. Jayakkanvar	Dy.Gen. Mgr	N.A.	9686500314<br>4	K.S. Chougule	Dy.Gen.Mgr.(Process)	N.A.	9686137006]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>75.30415530000001,15.9496932,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Venkateshwara Power Project Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.4788235,16.5144823,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.81997370000001,16.1954912,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ghatprabha Sugars</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>74.81781340000001,16.1929723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tungabhadra Sugar Works Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>75.6142619,13.9044729,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NSL Sugars (Tungabhadra) Ltd, Teh. Siruguppa, Karnataka</name>
+			<description><![CDATA[1	R.S. Singhvi	MD & CEO	N.A.	9963479811<br>2	Srinivas Sunkara	Sr.Gen.Mgr. & Unit Head	N.A.	8884433849<br>3	Prasad K.	Asst.Gen.Mgr.(Engg.)	N.A.	8884433826<br>4	PNS Umashankar	Asst.Gen.Mgr. (Process)	N.A.	8884433840<br>5	JSV Jagannadha Rao	Gen.Mgr. (Cane)	N.A.	8884433830<br>6	Raja Ramesh P	Mgr. (Fin. & Acct.)	N.A.	8884433800<br>7	M. Srinivas	Asst.Mgr. (Purchase)	N.A.	8884433843]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>76.921463,15.6207223,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bhalkeshwar Sugars Ltd, Teh. Bhalki, Karnataka</name>
+			<description><![CDATA[1	Prakash C. Khandre	C.M.D.	N.A.	9449827678<br>2	Prasanna Khandre	Exe.Dir	N.A.	8105607777<br>3	Shailendra Katiyar	Unit Head	N.A.	8861304716<br>4	V.M. Uppin	Gen.Mgr.	N.A.	8861006112<br>5	Ramling S.H	Purchase Mgr	N.A.	8861006118<br>6	Shivanand Ballur	Cane Deve.Offr	N.A.	7259039933<br>7	Havagirao Biradar	Cane Deve.Offr	N.A.	8861006120]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>77.18865390000001,18.0002847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Naranja Sahakari Sakkare Karkhane Ltd (NSSK)</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.4961989999999,18.012448,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Soubhagya Laxmi Sugars Ltd, Teh. Gokak, Karnataka</name>
+			<description><![CDATA[Address : Hirenandi<br>City : Teh. Gokak<br>Pin Code : 591 233<br>State : Karnataka<br>District : Belgaum<br>Register Office Address : 211/2B, Plot No. 4, Falls Road, Gokak, Belagavi 591 307, Ph.- (08332) 229300/91, Fax- (08332) 229300, E-mail: sssatish23@gmail.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>74.82358929999999,16.1662077,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.2880459,17.862343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shri Balaji Sugars &amp; Chemicals Pvt. LTD.,</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.161109,16.235021,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Olam Agro India Ltd., Ghatwa, Madhya Pradesh</name>
+			<description><![CDATA[#	Name	Designation	Phone No	Mobile No<br>1	Sanjay Sacheti	Whole Time Director	(0124) 4839901	N.A.<br>2	R.L. Tamak	Business Head (Sugar)	(0124) 4839903]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>75.36535259999999,22.0762547,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Navalsingh Sahakari Sakkar Karkhana Maryadit, Nimbola, Madhya Pradesh</name>
+			<description><![CDATA[Phone Number : (07325) 288061/62, 288665<br>Fax Number : (07325) 288623<br>Email : nssk.mp@gmail.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>76.2654752,21.3962,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mahakaushal Sugar and Power Industries Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.3076411,22.8750958,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ramdev sugar mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.5348564999999,22.7690544,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Revakripa Sugars Pvt Ltd., (A Institution of Akriti Group), Shahapura, Madhya Pradesh</name>
+			<description><![CDATA[Address : Paudi Phatak, Tal. Bhitoni<br>City : Shahapura<br>Pin Code : 483 119<br>State : Madhya Pradesh<br>District : Jabalpur<br>Register Office Address : F-11, 206, Shrishti Complex, M.P. Nagar, Zone- 1, Bhopal 11, Ph.- (0755) 2573954, 2763653, Telefax- (0755) 4270084]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>79.6661568,23.1632463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Point 277</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.169342,24.3868146,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Point 278</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.16247559999999,24.3855639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Krishak Sahakari Shakkar Karkhana Maryadit, Narayanpura, Madhya Pradesh</name>
+			<description><![CDATA[P.R. Bhatt	Ch.Exe.Offr.	N.A.	7697802679<br>4	K.L. Hidau	Gen.Mgr. (Tech.)	N.A.	8889910413<br>5	Lokesh Asthana	Ch.Chemist	N.A.	8889910411<br>6	J.S. Bhadoriya	Cane Mgr.	N.A.	9407270173<br>7	R.K. Jain	Asst.Gen.Mgr. (Acct.)	N.A.	9827040042]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>77.1465111,24.3611714,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kareli Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.0457615,22.9073871,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jawaharlal Nehru Sahakari Agri. Produce Processing Society Ltd., Borawan, Madhya Pradesh</name>
+			<description><![CDATA[Phone Number : (07285) 277716, 277711, 277867<br>Fax Number : (07285) 277716<br>Email : jln_sugar@rediffmail.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>75.6446457,21.9086487,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cheyyar Sugar Mills</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.56666559999999,12.6182693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dharani Sugars and Chemicals Limited, Karaipoondi Vill PO., Tamil Nadu</name>
+			<description><![CDATA[Phone Number : (04181) 223170, 223161<br>Fax Number : (04181) 223330<br>Email : dharani2@dharanisugars-pgp.com<br>Website : www.pgpgroup.org]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>79.1683146,12.5077062,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>EID Parry Sugar Factory, Pettavathalai</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.4961491,10.896795,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kothari Sugars and Chemicals Ltd., Kattur R.S., Tamil Nadu</name>
+			<description><![CDATA[Phone Number : (0431) 2541224, 2541350, 2541453<br>Fax Number : (0431) 2541451<br>Email : kscl_katt@hckgroup.com<br>Website : www.hckotharigroup.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>78.8668799,10.9016242,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ambur Co-Operative Sugar Mills</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.77949719999999,12.8337325,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tirupattur Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.55873700000009,12.6135996,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Vellore Cooperative Sugar Mills &amp; Sugar Research Institute</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.2379364,12.9754501,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>CCSM SUGAR FACTORY</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.34060100000001,11.8402188,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kallakurichi Co-operative Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.9715289999999,12.0626976,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kallakurichi II Co-op. Sugar Mills Ltd., Kachirayapalayam, Tamil Nadu</name>
+			<description><![CDATA[Phone Number : (04151) 234424<br>Fax Number : (04151) 234425<br>Email : k2sugars@gmail.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>78.87660030000001,11.7612852,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>rajshree sugar mills (unit 2)</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.5202965999999,12.0064022,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MCSM Sugar Mills</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.94515199999999,12.5974207,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nizam Deccan Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.6733256,18.8822362,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kakatiya Cement Sugar &amp; Industries Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.5841156,17.1718138,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ganpati Sugar Industries Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.0967899,17.5860751,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ganapathi Sugar Industries Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.44456769999999,17.4238352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Deccan Sugars</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.2483265,18.0120006,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>NSL Krishnaveni Sugars</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.9238872,16.3025242,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gayatri Sugars</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.2966423,18.3878819,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gayatri Sugars Ltd., Maagi, Telangana</name>
+			<description><![CDATA[Phone Number : (08465) 275577<br>Email : gsrsugars@rediffmail.com<br>Website : www.gayatrisugars.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>77.9157257,18.2300035,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LH Sugar Factory Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.8191687999999,28.6191059,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kesar Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.50616840000001,28.780806,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Padrauna Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.980048,26.9083041,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pratappur Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>84.1718685999999,26.2872833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.53748059999999,29.13225479999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cooperative Sugar Factory Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.14773409999999,28.5129459,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parking (Sugar Factory)</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>84.2340818,26.7241511,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.2365624,28.9482801,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.7795426,26.8154989,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.672636,29.37754410000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rauzagaon Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.6891861,26.789176,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Govind Sugar Mill Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.0799062,27.8500047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chandpur Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.2739541,29.1625884,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bisalpur Kisan Sahkari Chini Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.8038245,28.2802623,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kisan Sahkari Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.536511,26.1390829,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>KSCM</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.4455667,29.7076612,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dwarikesh Sugar Industries Ltd., Dwarikesh Nagar, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : (01343) 267061, 62, 64<br>Fax Number : (01343) 267065<br>Email : dn@dwarikesh.com<br>Website : www.dwarikesh.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>78.3527756,29.5579289,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wave Industries</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.2757077,28.9424379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Wave Sugar Industry</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.1500297,29.3848797,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Government Shekhupur Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.09204249999991,28.0065695,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Kisan Sahakari Chini Mills Ltd., Kaimganj, Uttar Pradesh</name>
+			<description><![CDATA[Fax Number : (05690) 232099<br>Email : chini_mill.kaimganj@rediffmail.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>79.3176091,27.5493153,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Upper Ganges Sugar &amp; Industries Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.5841009999999,29.197761,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>PBS Foods Private Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.5062758,28.5069196,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Ganga Kisan Sahkari Chini Mills Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.9119263,29.4705431,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kisan Sahkari Chini Mills Ltd., Najibabad, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : (01341) 255410<br>Email : snehroad@rediffmail.com, snehroad1990@rediffmail.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>78.33829160000001,29.6085453,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Uttam Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.8586597,29.7550851,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Uttam Sugar Mills</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.1771060999999,29.6059667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Uttam Sugar Mill, Shermau</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.26422219999991,29.8524639,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Baghauli Sugar and Distillery Ltd., Baghauli, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : (05852) 213344<br>Email : baghaulisugar@gmail.com<br>Website : www.bsdl.co.in]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>80.2867126,27.1831882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DSCL Sugar Hariawan</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.15421689999989,27.5304697,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DSCL Sugar Rupapur</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.7792366,27.5067343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DSCL Sugar - LONI</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.0005317,27.6342465,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DSCL Sugar, Noida</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.3156358,28.5785886,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Triveni Sugar Mill, Chandanpur, Chhapna</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.29003,28.571309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mohiuddinpur Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.618022,28.8833287,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dhampur Sugar Mills Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.5899392,28.6482457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>bajaj hindusthan sugar mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.7845039,28.6799332,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Mill Hasanpur</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.311672,28.71033570000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Neoli Sugar Factory Manpur Nagariya</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.81887069999991,27.8955275,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>BAJAJ HINDUSTAN SUGAR FACTORY PARK</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.47223030000001,28.0832214,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bajaj Hindusthan Sugar mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.57186059999999,28.4208723,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>DSCL Sugar- Ajbapur, PO. Mullapur, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : (05875) 243204, 243206<br>Fax Number : (05875) 243286<br>Email : alokchaudhary@dcmshriram.com<br>Website : www.dcmshriram.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>80.1880074,27.8002859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sarjoo Sahkari Chini Mills Ltd., Belrayan, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : (05873) 276224<br>Email : sarjoochini@yahoo.co.in]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>80.90808389999999,28.3746743,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Mill Raja Ka Sahaspur</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.7752476000001,28.6226046,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dewan Sugars</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.6977558999999,28.9313174,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Agwanpur Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.6992419000001,28.9336225,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rana Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.8718925000001,28.9265437,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Triveni Engineering &amp; Industries Ltd. Rani Nangal Sugar Unit</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.7622949,29.1326131,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Triveni Engineering and Industries Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.9903285,29.0315609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Triveni Engineering &amp; Industries Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.84602199999991,28.9067244,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Triveni Engineering and Industries</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.77332869999999,28.8386481,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Triveni Engineering &amp; Industries Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.40048609999999,28.5312984,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Triveni Engineering &amp; Industries Ltd., Corporate Office</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.3152638,28.5678944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bajaj Hindusthan Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.9976832,28.2459925,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bajaj Hindusthan Sugar Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.00524730000009,26.8629421,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bajaj Hindusthan Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.58701550000001,29.8095351,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bajaj Hindustan Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.8058601,28.4744847,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Point 360</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.3562651,28.9352658,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rudra Bilas Kisan Sahkari Chini Mills Ltd., Bilaspur, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : (0595) 2461254, 2461764<br>Fax Number : (0595) 2461254<br>Email : rudra.sugar@gmail.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>79.34414150000001,28.931078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Triveni Engineering Works</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.87119800000001,25.377725,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Triveni Sales Corporation</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.8587660000001,25.4389879,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Triveni Engineering and Industries Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.7402009,29.27457739999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rajpura Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.3806675000001,28.35737659999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bajaj Hindusthan</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.82972580000001,28.0184519,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bajaj Hindusthan Sugar mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.46157410000001,30.1336777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dalmia Chini Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.86958370000001,28.0577834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chini Mill Tilhar</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.74629660000009,27.9675135,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Kisan Sahkari Chini Mills Ltd., Powayan, Uttar Pradesh</name>
+			<description><![CDATA[Mobile Number : 7880888976<br>Email : puwaya.sugar@gmail.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>80.1429892,28.1052978,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rosa - Oudh Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.9162673999999,27.8227191,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Mill Jarwal Road</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.5445721,27.1220193,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Parle Biscuits Pvt. Ltd. (Sugar Division)</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.5167211,27.354165,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shravasti Kisan Sahkari Chini Mills Ltd., PO. Balha, Uttar Pradesh</name>
+			<description><![CDATA[Mobile Number : 7880889002<br>Phone Number : (05253) 232284<br>Fax Number : (05253) 232322<br>Email : skschinimillnnp@gmail.com<br>Website : www.upsugarfed.org]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>81.515336,27.8426811,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>simbhaoli sugars chilwaria bahraich</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.6872032,27.510728,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Simbhaoli Sugar Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.96495779999999,28.7905703,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Simbhaoli Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.3785780000001,28.620405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bajaj Sugar Industry</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.3167002,27.3484625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Balrampur Chini Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.1579199,27.4054109,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Factory Tulsipur</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.42381260000001,27.540854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Govind Nagar Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.7248996000001,26.8477036,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ASIAN SUGARS LATUR</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>76.58297160000011,18.3968114,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bajaj Hindusthan Sugar Ltd., Govindpara, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : (05262) 265181, 265182<br>Fax Number : (05262) 265180, 265185<br>Email : kkbajpai.kdk@bajajhindusthan.com<br>Website : www.bajajhindusthan.com, www.bajajgroup.org]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>81.92873950000001,27.0715076,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maizapur Chini Mills, A Unit of Balrampur Chini Mills Ltd., Haldharmau, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : (05261) 276582<br>Fax Number : (05261) 276582<br>Email : bcml@bcml.in<br>Website : www.chini.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>81.810658,27.1426577,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Khalilabad Sugar Mills, Sant Kabir Nagar, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : 8009091759<br>Fax Number : (05547) 226060<br>Email : ksmpl123@rediffmail.com<br>Website : www.kisan.net]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>83.0571985,26.7666866,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Indian Potash Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.94504999999999,26.84718,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Indian Potash Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.9573290000001,26.856064,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shankara Sharkara Sankul (A unit of Kanoria Sugar &amp; Gen Mfg Co Ltd)</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.70044590000001,26.9242414,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramkola Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>83.84056990000001,26.9047181,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The United Provinces Sugar Company Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>84.2298455,26.7257029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gularia Chini Mills</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.6333853,28.2311085,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kumbhi Chini Mills, A Unit of Balarampur Chini Mills Ltd., PO. Kumbhi, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : (05876) 245448, 245451 to 52<br>Fax Number : (05876) 245450<br>Email : kcm_fy@yahoo.co.in<br>Website : www.chini.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>80.36705019999999,27.968782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Akbarpur Chini mill Mijhaura Ambedkar Nagar UP</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.4164768000001,26.4735403,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dalmia Chini Mills Jawaharpur</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.55842800000001,27.5235603,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Mill Mahmudabad</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>81.10236759999999,27.3032787,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hargaon Oudh Sugar Mills</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.0096887,27.0165455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Seksaria Biswan Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>80.9960043999999,27.4840208,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cheeni Mil</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>82.0953628,26.2957122,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>SBEC Sugar Mill Malakpur</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.2311749,29.137834,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ramala Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.2886424000001,29.2305185,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Anamika sugar mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.9377539,28.5305314,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Chini Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.1252383999999,28.3967612,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Triveni Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.00279690000001,28.1935608,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.840659,28.398696,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Modi sugar mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.5690723,28.828303,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brijnathpur Sugar Mill Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.2198442,27.5773007,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>The Simbhaoli Sugars Ltd., Haringhpur,, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : (0122) 2953458, 2953460, 2953643<br>Fax Number : (0122) 2953571<br>Email : brijnathpur@yahoo.co.in<br>Website : www.simbhaolisugars.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>77.76741029999999,28.6423515,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Daurala Sugar Works, Daurala, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : (01237) 230096, 230098 to 100<br>Fax Number : (01237) 230131<br>Email : dsw@dcmsr.com<br>Website : www.dcmsr.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>77.7069855,29.0997145,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Indian Potash Ltd., Sakhoti Tanda, Uttar Pradesh</name>
+			<description><![CDATA[1	P. S. Gahlaut	M.D.	(011) 25761540	N.A.<br>2	Sudhir Kumar	Gen.Mgr.	N.A.	8057909416<br>3	S.K. Dwivedi	HOD (Prodn.)	N.A.	8057909409<br>4	Rajneesh	HOD (Cane)	N.A.	7830900642<br>5	Yash Solanki	Dy.Ch.Engr.	N.A.	8057909414]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>77.71728520000001,29.1956654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mawana Sugar Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.9237646,29.0950084,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mawana Sugars Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.1779925999999,28.6432533,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nanglamal Sugar Complex</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.8394651,28.8822202,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bajaj Hindusthan Ltd., Vill. Bhaisana, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : (01392) 235070, 71<br>Fax Number : (01392) 235069, 235183<br>Email : rschaudhary.bdn@bajajhindusthan.com<br>Website : www.bajajhindusthan.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>77.4716592,29.27520669999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mansurpur Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.717308,29.3510632,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Indian Potash Ltd., Rohanakalan, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : (0131) 2485305<br>Fax Number : (0131) 2485305<br>Email : iplsugarrohana@gmail.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>77.68799540000001,29.5751553,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tikaula Sugar Mills Ltd, Tikaula</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.995277,29.2729379,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Titavi Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.5468951,29.472165,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Uttam Sugar Mills Ltd., PO. Khaikheri, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : (0131) 2483999<br>Fax Number : (0131) 2483992<br>Email : usmlkhaikheri@gmail.com, khaikheri.lab@gmail.com<br>Website : www.uttamsugar.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>77.8580475,29.5980882,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UNN Sugar Complex, (Prop. Superior Food Grains (P) Ltd.), PO. Gagor, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : (01398) 247170, 75, 76<br>Fax Number : (01398) 247171<br>Email : info@sfgpl.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>77.257576,29.5931252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shakumbari Sugar and Allied Ind. Ltd., Todarpur, Uttar Pradesh</name>
+			<description><![CDATA[Phone Number : (0132) 2779211, 12, 13, 2761246<br>Fax Number : (0132) 2779214<br>Email : ssail@indiaglycols.com<br>Website : www.indiaglycols.com]]></description>
+			<styleUrl>#icon-1565-795548</styleUrl>
+			<Point>
+				<coordinates>77.6414108,30.1497289,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Triveni Deoband Sugar Unit</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.6800025,29.7000849,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Mill ThanaBhawan</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.4062991000001,29.5680635,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sir Shadi Lal Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.31412159999999,29.4437463,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Doiwala Sugar Company Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.1225899999999,30.1700084,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mahalaxmi Sugar Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.7945526,29.874648,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>R.B.N.S.Sugar Mills Ltd.</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.0288138999999,29.7480825,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Uttam Sugar Mills Ltd</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>77.88800019999999,29.85426259999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugar Factory</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.1431662,29.1612499,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kichha Sugar Company Ltd. Playground</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.5170474,28.9224952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nadehi Sugar Mills</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.946381,29.213309,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nadehi Suger Mill</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.77136280000001,29.2843133,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Uttarakhand Sugars</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.041414,30.293859,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Doiwala Sugar Company Limited</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>78.06878330000001,30.3633638,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kisan Sahkari Chini Mills LtdLtd Sitarganj</name>
+			<styleUrl>#icon-1565-795548-nodesc</styleUrl>
+			<Point>
+				<coordinates>79.7114478999999,28.855645,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
