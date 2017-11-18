@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"name": "Cement Layer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Sri Chamundaswari Cement Product", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 75.616060699999906, 13.8995217, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "India Cements Ltd", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 78.4586906, 17.4384514, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Binani Cement Limited", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 75.7296288, 27.6901783, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Penna Cement Corporate Office", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 78.439384199999907, 17.4283101, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "The India Cements Limited", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 77.8324398, 11.4550454, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "The India Cements Limited", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 75.1067384, 15.3551015, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "The India Cements Ltd.", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 86.2244178, 22.8278635, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "The India Cements Limited", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 80.2661396, 13.0647131, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Penna Cement Industries Ltd", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 79.6948745, 16.7171907, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Heidelberg Cement India Ltd", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 77.4363029, 23.2265679, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Heidelberg Cement India LTD.", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 72.998401999999899, 19.063148, 0.0 ] } }
+]
+}
