@@ -1,0 +1,31 @@
+{
+"type": "FeatureCollection",
+"name": "pesticides manufacturer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Insecticides (India) Limited", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 77.1773588, 28.7102999, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "India Pesticides Limited", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 81.0686041, 26.9139172, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Crop Care Pesticides India Private Limited", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 76.8402027, 30.7092367, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Insecticides India Ltd", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 78.5831181, 17.3578951, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "India Farm Care Pvt. Ltd.", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 73.181215, 22.3334199, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Insecticides India Limited", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 76.8744878, 28.1765767, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Pesticides Manufacturers & Formulators Association Of India", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 72.84047, 19.039152, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Gujarat Pesticides", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 72.6535961, 23.0685865, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Ravi Pesticides", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 73.1863317, 23.3396882, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Bharat Insecticides Limited Bahdurgarh", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 76.9558436, 28.6871712, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Arbuda Agrochemicals Pvt Ltd", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 77.552614, 12.990042, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Ramachandra pesticides pvt ltd", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 77.5463999, 12.9538686, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Karnataka Insecticides & Fungicides", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 77.499592200000095, 13.0085113, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Multiplex Fertilizers Pvt. Ltd.", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 77.548346, 13.007939, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Dhanuka Agritech Limited", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 77.541162499999899, 12.9568492, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Godrej Agrovet Ltd", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 77.0762201, 13.2399621, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Rallis India Limited", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 77.5109568, 13.0214659, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Maykar Pest Control", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 77.6586235, 12.9964076, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Rallis India Limited", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 75.1239547, 15.3647083, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Rallis India Limited", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 77.5932542, 12.9896829, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Rallis India Limited- Nitya Agro Services", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 75.882491000000101, 30.901648, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Rallis India Limited", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 76.2713478000001, 9.9381415, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Dhanuka Agritech Limited", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 77.092417699999899, 28.4901277, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Barauni Fertilizer Corporation", "tessellate": -1, "extrude": 0, "visibility": -1 }, "geometry": { "type": "Point", "coordinates": [ 86.0287374, 25.4125225, 0.0 ] } }
+]
+}
